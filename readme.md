@@ -1,4 +1,5 @@
 
 
-# JavaScript30
+# JavaScript Snippets
+
 
